@@ -1,0 +1,40 @@
+body {
+  background: #eee;
+}
+
+.contenedor{
+  background: #fff;
+  width: 20%;
+  min-height: 200px;
+  margin: auto;
+  margin-top: 12%;
+  border-radius: 4px;
+}
+
+.contenedor3{
+  background: #fff;
+  width: 10%;
+  min-height: 100px;
+  margin: auto;
+  margin-top: 12%;
+  border-radius: 4px;
+}
+
+.imagen {
+  width: 40%;
+  margin: auto;
+  /*margin-top: 50px;*/
+}
+
+.form-control.form-input {
+  margin: 15px 0px;
+  width: 80%;
+  margin: auto;
+  border: none;
+  border-radius: 0px;
+}
+
+.btn.btn-primary.btn-block {
+  margin-top: 10px;
+}
+
